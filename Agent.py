@@ -1,5 +1,6 @@
 import random
 import numpy as np
+print("あああ")
 
 WORLD_NUM = 10
 WORLD_SCALE = 100 * WORLD_NUM
